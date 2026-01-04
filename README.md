@@ -8,7 +8,9 @@ from UI/UX and frontend architecture to backend logic, APIs, and databases.
 I care about clean code, scalability, and maintainable architecture.  
 I enjoy working on real-world products where design, logic, and user experience come together.
 
----
+## 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bakko7821&theme=tokyonight-duo&border_radius=16&locale=ru&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ## 🛠️ Skills
 
@@ -29,14 +31,6 @@ I enjoy working on real-world products where design, logic, and user experience 
 <p align="start">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=bakko7821&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakko7821&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="start">
-  <img src="https://streak-stats.demolab.com?user=bakko7821&theme=github-dark&hide_border=true" />
 </p>
 
 ---
